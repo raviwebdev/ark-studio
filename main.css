@@ -382,7 +382,8 @@ ul img  {
 }
 
 
-footer  {
+
+{
     display: flex;
     flex-flow: row wrap;
     align-content: flex-start;
@@ -392,7 +393,7 @@ footer  {
 
 .footer_widget  {
     box-sizing: border-box;
-    height: 400px;
+    height: 300px;
     position: relative;
     background-color: rgb(34, 31, 31);
     width: 100%;
@@ -406,7 +407,7 @@ footer  {
     position: absolute;
     box-sizing: border-box; 
     color: thistle;
-    height: 300px;
+    height: 200px;
 }
 
 #p1 {
@@ -417,7 +418,7 @@ footer  {
     margin-top: 50px;
     box-sizing: border-box; 
     color: thistle;
-    height: 300px; 
+    height: 200px; 
     width: 230px;
     margin-left: 430px;
     padding-top: 40px;
@@ -443,7 +444,7 @@ footer  {
     top: 0;
     box-sizing: border-box;
     color: thistle;
-    height: 300px;
+    height: 200px;
     width: 230px;
     margin-left: 650px;
     padding-top: 40px;
@@ -470,7 +471,7 @@ footer  {
     margin-top: 50px;
     box-sizing: border-box;
     color: thistle;
-    height: 300px; 
+    height: 200px; 
     width: 240px;
     margin-left: 890px;
 }
@@ -484,6 +485,6 @@ footer  {
     color: white;
     position: absolute;
     bottom: 0;    
-    left: 547px;
+    left: 510px;
     right: 470px;
 }
